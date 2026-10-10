@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "versionCode": 100,
+  "versionName": "0.1.0",
+  "tag": "v0.1.0",
+  "apkUrl": "https://github.com/coolza254-lgtm/mimikopi-releases/releases/download/v0.1.0/mimikopi-v0.1.0.apk",
+  "apkSize": 8894285,
+  "sha256": "e0fffab2b06005809a6a000ddd0abf51c2c046ef6437f7ea32881cacee0956b6",
+  "notesTh": "รุ่นแรก (M1): โครงแอพ\n- ติดตั้งได้และเปิดแอพได้ พร้อมไอคอนและโลโก้ ミミコピ\n- หน้า \"ข้อมูลเครื่อง\" สำหรับคัดลอกข้อมูลเป็น JSON ส่งกลับมาตรวจ\n- ยังไม่มีบทเรียน เสียงเปียโน เมโทรนอม และ MIDI (จะตามมาในรุ่นถัดไป)",
+  "publishedAt": "2026-10-10T19:32:49Z"
+}
